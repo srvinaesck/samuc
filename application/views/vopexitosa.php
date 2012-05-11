@@ -1,0 +1,1 @@
+<p>Ahora puedes regresar a la página principal</p>
