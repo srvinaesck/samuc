@@ -6,4 +6,6 @@ Usando CodeIgniter, contenido solamente de la carpeta "/application"
 Libre (hasta el momento) para cualquiera que desee apoyar.
 
 contacto alejandro_servin@ucol.mx
+lol
 lol2
+
